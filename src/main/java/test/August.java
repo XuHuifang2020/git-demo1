@@ -10,5 +10,6 @@ public class August {
         System.out.println("hot-fix test");
         System.out.println("master test");
         System.out.println("hot-fix test");
+        System.out.println("remote test");
     }
 }
